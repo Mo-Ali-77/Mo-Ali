@@ -1,7 +1,10 @@
 # 👋 Hi there!
-
-I’m **Mohammed Ali Al-Amoudi**, a Computer Science student sharing my real journey in learning programming step by step 💡.  
-This repository (and my channel) is where I document what I know, what I’m learning, and what I plan to explore next 🚀.
+- I am **Mohammed Ali Al-Amoudi**, who transfers and publishes knowledge from my learning source, the platform of the esteemed **Dr. Mohammed Abu-Hadhuod**. The link to the platform is here: [Programmingadvices.com](https://programmingadvices.com/).
+- I am studying a bachelor's degree in computer science at the University of Hadhramaut in Yemen.
+- I love to publish everything I have learned in the field of programming, step by step.
+- I would like to thank the esteemed Dr. Muhammad Abu Hudhud for everything he has taught us in the field of programming.
+- Honestly, and with all due respect to all teachers in the field of programming in the Arab world, I found my way in the field of programming through Dr. Muhammad Abu Hudhud's platform, [Programmingadvices.com](https://programmingadvices.com/).
+- I hope to be of service to you, even if only in a small way, in determining your learning path with the supervisor. Please forgive us if we make mistakes or fall short.
 
 ---
 
