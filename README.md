@@ -1,5 +1,5 @@
 # 👋 Hi there!
-- I am **Mohammed Ali Al-Amoudi**, who transfers and publishes knowledge from my learning source, the platform of the esteemed **Dr. Mohammed Abu-Hadhuod**. The link to the platform is here: [Programmingadvices.com](https://programmingadvices.com/).
+- I am **Mohammed Ali Al-Amoudi**, who transfers and publishes knowledge from my learning source, the platform of the esteemed **Dr. Mohammed Abu-Hadhuod Roadmap**. The link to the platform is here: [Programmingadvices.com](https://programmingadvices.com/).
 - I am studying a bachelor's degree in computer science at the University of Hadhramaut in Yemen.
 - I love to publish everything I have learned in the field of programming, step by step.
 - I would like to thank the esteemed Dr. Muhammad Abu Hudhud for everything he has taught us in the field of programming.
@@ -26,8 +26,8 @@
 
 ## 📺 What You’ll Find Here
 - Practical tutorials  
-- Small projects  
-- Problem-solving sessions  
+- All projects on **Dr.Mohammed Abu Hadhoud's roadmap**
+- Problem-solving  
 - Tips for self-learning 🚀  
 
 ---
