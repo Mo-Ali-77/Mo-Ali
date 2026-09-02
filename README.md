@@ -44,8 +44,6 @@ I focus on:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B0082?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-1E90FF?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-2E8B57?style=for-the-badge)
 
 </p>
@@ -65,35 +63,6 @@ My methodology:
 
 Next milestone:  
 ➡ Transition from **Junior Backend Developer** to **Full Web Developer**
-
----
-
-## 🔐 Cybersecurity Path
-
-Parallel to backend engineering, I am building a strong security foundation.
-
-Focus areas:
-
-- Linux internals  
-- Networking security concepts  
-- Operating Systems behavior  
-- Exploitation fundamentals  
-- Red Team direction  
-
-Long-term vision:  
-Combine **secure backend architecture** with **offensive security knowledge**.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mo-ali-77&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mo-ali-77&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9)
-
-</p>
 
 ---
 
